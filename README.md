@@ -11,6 +11,9 @@
 ![Rasmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasmusjohansson04&show_icons=true&theme=synthwave)
 ![Git](https://api.githubtrends.io/user/svg/RasmusJohansson04/langs?time_range=one_year&compact=True&theme=synthwaves)
 
+
+
+
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mhkrhe3jvpo3dumh6rppczh734&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
