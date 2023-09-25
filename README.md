@@ -1,23 +1,35 @@
 <div id="header" align="center">
 
-<h3 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">┌ Hello─World</h3>
-<h3 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">└───────────┘</h3>
-<h4 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">My name is Rasmus Johansson</h4>
-<h4 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">I am an aspiring web developer and programmer</h4>
+<style>
+h3, h4 {
+text-align: center; margin: 0; padding: 0;
+}
+p, h3, h4 {
+font-family: monospace; 
+}
+ul {
+font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;
+}
+</style>
+
+<h3>┌ Hello─World</h3>
+<h3>└───────────┘</h3>
+<h4>My name is Rasmus Johansson</h4>
+<h4>I am an aspiring web developer and programmer</h4>
     
 </div>
 <hr>
 
-<h3 style="font-family: monospace;">About me</h3>
+<h3>About me</h3>
 
-<ul style="font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;">
+<ul>
     <li><p>💻 I primarily focus on HTML, CSS, Javascript and Java</p></li>
     <li><p>🥊 In my free time I do boxing, workout, play guitar and some light game development</p></li>
     <li><p>👨‍🎓 I am currently a student at NTI Umeå</p></li>
 </ul>
 <hr>
-<h3 style="font-family: monospace;">Things I've worked on</h3>
-<ul style="font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;">
+<h3>Things I've worked on</h3>
+<ul>
     <li><a href="https://rasmusjohansson04.github.io/te4-new-pizza/">Pizza Website</a></li>
 </ul>
 <hr>
