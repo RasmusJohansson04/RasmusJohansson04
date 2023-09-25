@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasmusjohansson04&show_icons=true&theme=tokyonight)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rasmusjohansson04/langs)](https://githubtrends.io)
+![Git](https://api.githubtrends.io/user/svg/RasmusJohansson04/langs?time_range=one_year&compact=True&theme=synthwaves)
 
 <!--
 **RasmusJohansson04/RasmusJohansson04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
