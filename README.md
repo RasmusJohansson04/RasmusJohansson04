@@ -1,5 +1,6 @@
 <div id="header" align="center">
 
+<foreignObject>
 <style>
 h3, h4 {
 text-align: center; margin: 0; padding: 0;
@@ -11,6 +12,7 @@ ul {
 font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;
 }
 </style>
+</foreignObject>
 
 <h3>┌ Hello─World</h3>
 <h3>└───────────┘</h3>
