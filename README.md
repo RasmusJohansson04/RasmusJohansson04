@@ -1,9 +1,3 @@
-<style>
-    .row {
-        display: flex;
-    }
-</style>
-
 <h3>Hello</h3>
 <hr>
 <ul>
