@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
 <foreignObject>
+<div xmlns="http://www.w3.org/1999/xhtml">
 <style>
 h3, h4 {
 text-align: center; margin: 0; padding: 0;
@@ -12,6 +13,7 @@ ul {
 font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;
 }
 </style>
+</div>
 </foreignObject>
 
 <h3>┌ Hello─World</h3>
