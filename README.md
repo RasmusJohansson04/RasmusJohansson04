@@ -1,19 +1,19 @@
-<h3>Hello</h3>
+<h3 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">┌ Hello─World</h3>
+<h3 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">└───────────┘</h3>
+<h4 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">My name is Rasmus Johansson</h4>
+<h4 style="text-align: center; font-family: monospace; margin: 0; padding: 0;">I am an aspiring web developer and programmer</h4>
 <hr>
-<ul>
-    <li>
-        <p>🔭 I'm currently working on big things</p>
-    </li>
-    <li>
-        <p>⚡ Fun fact 🤔 I'm looking for help</p>
-    </li>
+<h3 style="font-family: monospace;">About me</h3>
+<ul style="font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;">
+    <li><p>💻 I primarily focus on HTML, CSS, Javascript and Java</p></li>
+    <li><p>🥊 In my free time I do boxing, workout, play guitar and some light game development</p></li>
+    <li><p>👨‍🎓 I am currently a student at NTI Umeå</p></li>
 </ul>
-<h3>Examples of what I've worked on</h3>
 <hr>
-<ul>
+<h3 style="font-family: monospace;">Things I've worked on</h3>
+<ul style="font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;">
     <li><a href="https://rasmusjohansson04.github.io/te4-new-pizza/">Pizza Website</a></li>
 </ul>
-<h3>Things about me</h3>
 <hr>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mhkrhe3jvpo3dumh6rppczh734&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -35,7 +35,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasmusJohansson04&theme=synthwave)
 
-<div class="row">
+<div style="display: flex;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasmusjohansson04&theme=synthwave)
 
