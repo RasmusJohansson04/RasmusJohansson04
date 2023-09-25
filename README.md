@@ -1,30 +1,12 @@
 <div id="header" align="center">
-
-<foreignObject>
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
-h3, h4 {
-text-align: center; margin: 0; padding: 0;
-}
-p, h3, h4 {
-font-family: monospace; 
-}
-ul {
-font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;
-}
-</style>
-</div>
-</foreignObject>
-
-<h3>┌ Hello─World</h3>
-<h3>└───────────┘</h3>
-<h4>My name is Rasmus Johansson</h4>
-<h4>I am an aspiring web developer and programmer</h4>
+<h3>『 𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳 』</h3>
+<h4>𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚁𝚊𝚜𝚖𝚞𝚜 𝙹𝚘𝚑𝚊𝚗𝚜𝚜𝚘𝚗</h4>
+<h4>𝙸 𝚊𝚖 𝚊𝚗 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛</h4>
     
 </div>
 <hr>
 
-<h3>About me</h3>
+<h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 
 <ul>
     <li><p>💻 I primarily focus on HTML, CSS, Javascript and Java</p></li>
@@ -32,7 +14,7 @@ font-family: monospace; margin-top: 1rem; list-style:decimal-leading-zero;
     <li><p>👨‍🎓 I am currently a student at NTI Umeå</p></li>
 </ul>
 <hr>
-<h3>Things I've worked on</h3>
+<h3>𝚃𝚑𝚒𝚗𝚐𝚜 𝙸'𝚟𝚎 𝚠𝚘𝚛𝚔𝚎𝚍 𝚘𝚗</h3>
 <ul>
     <li><a href="https://rasmusjohansson04.github.io/te4-new-pizza/">Pizza Website</a></li>
 </ul>
