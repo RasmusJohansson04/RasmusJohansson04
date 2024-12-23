@@ -1,21 +1,13 @@
-<div id="header" align="center">
-<h3>『 𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳 』</h3>
-<h4>𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚁𝚊𝚜𝚖𝚞𝚜 𝙹𝚘𝚑𝚊𝚗𝚜𝚜𝚘𝚗</h4>
-<h4>𝙸 𝚊𝚖 𝚊𝚗 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛</h4>
-    
-</div>
-<hr>
+# Hello.
+My name is Rasmus Johansson.
 
-<h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
+I am an aspiring software developer with a special interest for cybersecurity and operating systems.
 
-<ul>
-    <li><p>💻 I primarily focus on HTML, CSS, Javascript and Java</p></li>
-    <li><p>🥊 In my free time I do boxing, workout, play guitar and some light game development</p></li>
-    <li><p>👨‍🎓 I am currently a computer science student at Umeå Universitet</p></li>
-</ul>
-<hr>
+## About me
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mhkrhe3jvpo3dumh6rppczh734&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+- 💻 I primarily focus on HTML, CSS, Javascript and Java
+- 🥊 In my free time I do boxing, workout, play guitar and some light game development
+- 👨‍🎓 I am currently a computer science student at Umeå Universitet
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,15 +26,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasmusJohansson04&theme=synthwave)
-
-<div style="display: flex;">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasmusjohansson04&theme=synthwave)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasmusJohansson04&theme=synthwave)
-
-</div>
 
 
 <!--
