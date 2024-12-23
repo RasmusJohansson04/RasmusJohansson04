@@ -14,14 +14,10 @@
     <li><p>👨‍🎓 I am currently a computer science student at Umeå Universitet</p></li>
 </ul>
 <hr>
-<h3>𝚃𝚑𝚒𝚗𝚐𝚜 𝙸'𝚟𝚎 𝚠𝚘𝚛𝚔𝚎𝚍 𝚘𝚗</h3>
-<ul>
-    <li><a href="https://rasmusjohansson04.github.io/te4-new-pizza/">Pizza Website</a></li>
-</ul>
-<hr>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mhkrhe3jvpo3dumh6rppczh734&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
