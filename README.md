@@ -11,7 +11,7 @@
 <ul>
     <li><p>💻 I primarily focus on HTML, CSS, Javascript and Java</p></li>
     <li><p>🥊 In my free time I do boxing, workout, play guitar and some light game development</p></li>
-    <li><p>👨‍🎓 I am currently a student at NTI Umeå</p></li>
+    <li><p>👨‍🎓 I am currently a computer science student at Umeå Universitet</p></li>
 </ul>
 <hr>
 <h3>𝚃𝚑𝚒𝚗𝚐𝚜 𝙸'𝚟𝚎 𝚠𝚘𝚛𝚔𝚎𝚍 𝚘𝚗</h3>
